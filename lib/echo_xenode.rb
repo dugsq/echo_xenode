@@ -23,10 +23,10 @@
 #   debug: false
 #
 # Example Input:###
-#   msg.data: "String contains the data from one of the parent Xenodes."
+#   message.data: "String contains the data from one of the parent Xenodes."
 #
 # Example Output:###
-#   msg.data: "String contains the data from one of the parent Xenodes"
+#   message.data: "String contains the data from one of the parent Xenodes"
 #
 
 class EchoXenode
