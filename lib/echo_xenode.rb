@@ -30,7 +30,7 @@
 #
 
 class EchoXenode
-  include XenoCore::NodeBase
+  include XenoCore::XenodeBase
   def process_message(message)
     write_to_children(message)
   end
